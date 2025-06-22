@@ -1,1 +1,1 @@
-GO enrichment analysis for proteins enriched in KEGG pathways
+GO enrichment analysis for top-10 proteins in each network.
