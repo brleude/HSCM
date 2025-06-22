@@ -1,0 +1,2776 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <graph edgedefault="undirected">
+        <node id="ABCE1">
+            <data key="label">ABCE1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1139.4381</data>
+            <data key="y">153.65495</data>
+        </node>
+        <node id="EEF2">
+            <data key="label">EEF2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1146.5605</data>
+            <data key="y">-25.287004</data>
+        </node>
+        <node id="GART">
+            <data key="label">GART</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1120.7882</data>
+            <data key="y">-175.57721</data>
+        </node>
+        <node id="ABR">
+            <data key="label">ABR</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">481.46542</data>
+            <data key="y">722.23883</data>
+        </node>
+        <node id="DNAJC6">
+            <data key="label">DNAJC6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">557.8585</data>
+            <data key="y">848.0885</data>
+        </node>
+        <node id="UCHL1">
+            <data key="label">UCHL1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">415.20013</data>
+            <data key="y">868.429</data>
+        </node>
+        <node id="ACTN1">
+            <data key="label">ACTN1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-289.77887</data>
+            <data key="y">-952.384</data>
+        </node>
+        <node id="FLNA">
+            <data key="label">FLNA</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-84.328964</data>
+            <data key="y">-1142.4882</data>
+        </node>
+        <node id="TPM1">
+            <data key="label">TPM1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-488.77405</data>
+            <data key="y">-716.4732</data>
+        </node>
+        <node id="SORBS1">
+            <data key="label">SORBS1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-745.20337</data>
+            <data key="y">-855.8171</data>
+        </node>
+        <node id="ACTN2">
+            <data key="label">ACTN2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-211.7661</data>
+            <data key="y">817.2214</data>
+        </node>
+        <node id="FSD1">
+            <data key="label">FSD1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">28.429453</data>
+            <data key="y">707.49255</data>
+        </node>
+        <node id="PFKP">
+            <data key="label">PFKP</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">93.78021</data>
+            <data key="y">843.7181</data>
+        </node>
+        <node id="TRIM2">
+            <data key="label">TRIM2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">330.6627</data>
+            <data key="y">714.8558</data>
+        </node>
+        <node id="ACTR2">
+            <data key="label">ACTR2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">363.23386</data>
+            <data key="y">-250.30522</data>
+        </node>
+        <node id="ARPC3">
+            <data key="label">ARPC3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">271.56662</data>
+            <data key="y">-120.11264</data>
+        </node>
+        <node id="CORO1A">
+            <data key="label">CORO1A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">211.74037</data>
+            <data key="y">-263.27234</data>
+        </node>
+        <node id="EHD1">
+            <data key="label">EHD1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">116.60013</data>
+            <data key="y">-144.60222</data>
+        </node>
+        <node id="TWF2">
+            <data key="label">TWF2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">467.93707</data>
+            <data key="y">-371.54715</data>
+        </node>
+        <node id="WDR1">
+            <data key="label">WDR1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">630.3606</data>
+            <data key="y">-327.4051</data>
+        </node>
+        <node id="ARPC5">
+            <data key="label">ARPC5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">322.04843</data>
+            <data key="y">36.532845</data>
+        </node>
+        <node id="CAP1">
+            <data key="label">CAP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">316.111</data>
+            <data key="y">-400.3137</data>
+        </node>
+        <node id="COTL1">
+            <data key="label">COTL1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">418.0423</data>
+            <data key="y">-100.45482</data>
+        </node>
+        <node id="CAPZA2">
+            <data key="label">CAPZA2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">523.05457</data>
+            <data key="y">-613.1514</data>
+        </node>
+        <node id="SNX6">
+            <data key="label">SNX6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">455.3178</data>
+            <data key="y">-745.93524</data>
+        </node>
+        <node id="MAPK1">
+            <data key="label">MAPK1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">416.2297</data>
+            <data key="y">-901.46655</data>
+        </node>
+        <node id="ADD1">
+            <data key="label">ADD1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">141.67836</data>
+            <data key="y">291.0689</data>
+        </node>
+        <node id="HSPA12A">
+            <data key="label">HSPA12A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">50.000854</data>
+            <data key="y">416.55984</data>
+        </node>
+        <node id="AKAP12">
+            <data key="label">AKAP12</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-54.44601</data>
+            <data key="y">556.2514</data>
+        </node>
+        <node id="PALM">
+            <data key="label">PALM</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">197.7531</data>
+            <data key="y">439.99496</data>
+        </node>
+        <node id="LRP1">
+            <data key="label">LRP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-370.32816</data>
+            <data key="y">756.22217</data>
+        </node>
+        <node id="MAP1A">
+            <data key="label">MAP1A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">175.38948</data>
+            <data key="y">693.8222</data>
+        </node>
+        <node id="DMWD">
+            <data key="label">DMWD</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">427.77707</data>
+            <data key="y">582.8196</data>
+        </node>
+        <node id="FKBP1B">
+            <data key="label">FKBP1B</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-88.53986</data>
+            <data key="y">397.6981</data>
+        </node>
+        <node id="ADD2">
+            <data key="label">ADD2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-114.28399</data>
+            <data key="y">696.3663</data>
+        </node>
+        <node id="DGKI">
+            <data key="label">DGKI</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-252.71498</data>
+            <data key="y">661.9743</data>
+        </node>
+        <node id="MAP2">
+            <data key="label">MAP2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-381.66687</data>
+            <data key="y">897.71405</data>
+        </node>
+        <node id="CNRIP1">
+            <data key="label">CNRIP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">95.97222</data>
+            <data key="y">562.0217</data>
+        </node>
+        <node id="ENO2">
+            <data key="label">ENO2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-50.28445</data>
+            <data key="y">117.73254</data>
+        </node>
+        <node id="SCRN1">
+            <data key="label">SCRN1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-462.28995</data>
+            <data key="y">208.51566</data>
+        </node>
+        <node id="CORO2B">
+            <data key="label">CORO2B</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-701.40356</data>
+            <data key="y">886.7295</data>
+        </node>
+        <node id="AKR1A1">
+            <data key="label">AKR1A1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-223.2895</data>
+            <data key="y">372.05472</data>
+        </node>
+        <node id="MPI">
+            <data key="label">MPI</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-348.0259</data>
+            <data key="y">460.676</data>
+        </node>
+        <node id="ALDH18A1">
+            <data key="label">ALDH18A1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-520.50244</data>
+            <data key="y">-207.30692</data>
+        </node>
+        <node id="SHMT2">
+            <data key="label">SHMT2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-663.6521</data>
+            <data key="y">-156.71541</data>
+        </node>
+        <node id="HSPD1">
+            <data key="label">HSPD1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-850.51984</data>
+            <data key="y">-71.08334</data>
+        </node>
+        <node id="MDH2">
+            <data key="label">MDH2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1136.6313</data>
+            <data key="y">49.75518</data>
+        </node>
+        <node id="AP2A1">
+            <data key="label">AP2A1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-204.2686</data>
+            <data key="y">526.11224</data>
+        </node>
+        <node id="AP2B1">
+            <data key="label">AP2B1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-483.88242</data>
+            <data key="y">368.67142</data>
+        </node>
+        <node id="AP2A2">
+            <data key="label">AP2A2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-762.7304</data>
+            <data key="y">641.2945</data>
+        </node>
+        <node id="ARHGDIA">
+            <data key="label">ARHGDIA</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">672.0421</data>
+            <data key="y">749.9182</data>
+        </node>
+        <node id="PGAM1">
+            <data key="label">PGAM1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">812.2439</data>
+            <data key="y">800.3293</data>
+        </node>
+        <node id="PGK1">
+            <data key="label">PGK1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">766.90375</data>
+            <data key="y">633.1389</data>
+        </node>
+        <node id="SNX1">
+            <data key="label">SNX1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">557.53894</data>
+            <data key="y">-857.66504</data>
+        </node>
+        <node id="SNX2">
+            <data key="label">SNX2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">678.3947</data>
+            <data key="y">-569.95276</data>
+        </node>
+        <node id="SNX5">
+            <data key="label">SNX5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">535.3923</data>
+            <data key="y">-1008.8791</data>
+        </node>
+        <node id="ATP1A1">
+            <data key="label">ATP1A1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1054.3075</data>
+            <data key="y">434.6671</data>
+        </node>
+        <node id="ATP1B1">
+            <data key="label">ATP1B1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1088.1775</data>
+            <data key="y">296.46793</data>
+        </node>
+        <node id="ATP2A2">
+            <data key="label">ATP2A2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-704.8049</data>
+            <data key="y">-14.910561</data>
+        </node>
+        <node id="ATP2C1">
+            <data key="label">ATP2C1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-992.54974</data>
+            <data key="y">114.409874</data>
+        </node>
+        <node id="CLPTM1">
+            <data key="label">CLPTM1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-410.28134</data>
+            <data key="y">-107.40142</data>
+        </node>
+        <node id="SLC25A3">
+            <data key="label">SLC25A3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-637.52454</data>
+            <data key="y">-307.13177</data>
+        </node>
+        <node id="BCAP31">
+            <data key="label">BCAP31</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-225.60764</data>
+            <data key="y">-170.01784</data>
+        </node>
+        <node id="CANX">
+            <data key="label">CANX</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-423.76547</data>
+            <data key="y">49.041206</data>
+        </node>
+        <node id="RPN1">
+            <data key="label">RPN1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-286.2404</data>
+            <data key="y">-29.267107</data>
+        </node>
+        <node id="SACM1L">
+            <data key="label">SACM1L</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-457.15332</data>
+            <data key="y">-342.9191</data>
+        </node>
+        <node id="LMAN1">
+            <data key="label">LMAN1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-170.03857</data>
+            <data key="y">233.96693</data>
+        </node>
+        <node id="WFS1">
+            <data key="label">WFS1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-569.0129</data>
+            <data key="y">-438.22372</data>
+        </node>
+        <node id="ATP6V1A">
+            <data key="label">ATP6V1A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-372.56857</data>
+            <data key="y">-465.3589</data>
+        </node>
+        <node id="ATP6V1B2">
+            <data key="label">ATP6V1B2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-485.41016</data>
+            <data key="y">-561.142</data>
+        </node>
+        <node id="ATP6V1D">
+            <data key="label">ATP6V1D</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-357.0164</data>
+            <data key="y">-633.3645</data>
+        </node>
+        <node id="ATP6V1E1">
+            <data key="label">ATP6V1E1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-214.22421</data>
+            <data key="y">-678.2292</data>
+        </node>
+        <node id="ATP6V1H">
+            <data key="label">ATP6V1H</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-350.06317</data>
+            <data key="y">-243.64517</data>
+        </node>
+        <node id="CACYBP">
+            <data key="label">CACYBP</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-633.3425</data>
+            <data key="y">581.3724</data>
+        </node>
+        <node id="GMPS">
+            <data key="label">GMPS</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-515.97205</data>
+            <data key="y">690.5985</data>
+        </node>
+        <node id="PFDN2">
+            <data key="label">PFDN2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-506.8929</data>
+            <data key="y">515.1215</data>
+        </node>
+        <node id="PFDN6">
+            <data key="label">PFDN6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-345.77133</data>
+            <data key="y">298.58856</data>
+        </node>
+        <node id="PFDN5">
+            <data key="label">PFDN5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-313.82004</data>
+            <data key="y">151.68716</data>
+        </node>
+        <node id="CALR">
+            <data key="label">CALR</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">898.89417</data>
+            <data key="y">-383.42053</data>
+        </node>
+        <node id="ERP44">
+            <data key="label">ERP44</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1035.0244</data>
+            <data key="y">-442.99127</data>
+        </node>
+        <node id="HSPA5">
+            <data key="label">HSPA5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">802.2356</data>
+            <data key="y">-276.02435</data>
+        </node>
+        <node id="P4HB">
+            <data key="label">P4HB</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">984.22144</data>
+            <data key="y">-572.9203</data>
+        </node>
+        <node id="PDIA4">
+            <data key="label">PDIA4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">960.31586</data>
+            <data key="y">-243.32922</data>
+        </node>
+        <node id="PRKCSH">
+            <data key="label">PRKCSH</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">573.2681</data>
+            <data key="y">-83.14771</data>
+        </node>
+        <node id="CCT2">
+            <data key="label">CCT2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-887.70825</data>
+            <data key="y">543.0243</data>
+        </node>
+        <node id="CCT3">
+            <data key="label">CCT3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-765.2744</data>
+            <data key="y">471.5439</data>
+        </node>
+        <node id="CCT4">
+            <data key="label">CCT4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1076.4657</data>
+            <data key="y">377.48117</data>
+        </node>
+        <node id="CCT5">
+            <data key="label">CCT5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1019.55585</data>
+            <data key="y">515.0872</data>
+        </node>
+        <node id="CCT6A">
+            <data key="label">CCT6A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-904.80023</data>
+            <data key="y">391.70428</data>
+        </node>
+        <node id="CCT7">
+            <data key="label">CCT7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-756.65186</data>
+            <data key="y">319.9377</data>
+        </node>
+        <node id="CCT8">
+            <data key="label">CCT8</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-990.74225</data>
+            <data key="y">271.22162</data>
+        </node>
+        <node id="TCP1">
+            <data key="label">TCP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-854.56415</data>
+            <data key="y">228.40083</data>
+        </node>
+        <node id="CLIC4">
+            <data key="label">CLIC4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-813.34344</data>
+            <data key="y">793.16296</data>
+        </node>
+        <node id="CNN3">
+            <data key="label">CNN3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-518.2031</data>
+            <data key="y">845.74054</data>
+        </node>
+        <node id="PDLIM5">
+            <data key="label">PDLIM5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-255.67918</data>
+            <data key="y">958.3059</data>
+        </node>
+        <node id="ZYX">
+            <data key="label">ZYX</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-195.43187</data>
+            <data key="y">1118.7332</data>
+        </node>
+        <node id="CSRP1">
+            <data key="label">CSRP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-44.752552</data>
+            <data key="y">1138.6506</data>
+        </node>
+        <node id="CNTNAP1">
+            <data key="label">CNTNAP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-464.36868</data>
+            <data key="y">1029.9298</data>
+        </node>
+        <node id="NCAM1">
+            <data key="label">NCAM1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-592.13947</data>
+            <data key="y">973.7215</data>
+        </node>
+        <node id="COPS2">
+            <data key="label">COPS2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">689.2178</data>
+            <data key="y">501.12628</data>
+        </node>
+        <node id="COPS4">
+            <data key="label">COPS4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">925.1957</data>
+            <data key="y">369.99976</data>
+        </node>
+        <node id="COPS5">
+            <data key="label">COPS5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">851.7501</data>
+            <data key="y">506.13513</data>
+        </node>
+        <node id="COPS6">
+            <data key="label">COPS6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">768.8067</data>
+            <data key="y">374.45438</data>
+        </node>
+        <node id="CPT1C">
+            <data key="label">CPT1C</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-719.61774</data>
+            <data key="y">135.3128</data>
+        </node>
+        <node id="EPB41L3">
+            <data key="label">EPB41L3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-628.7483</data>
+            <data key="y">411.0834</data>
+        </node>
+        <node id="GNAI2">
+            <data key="label">GNAI2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-553.04517</data>
+            <data key="y">-42.11221</data>
+        </node>
+        <node id="RAP1A">
+            <data key="label">RAP1A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-611.1841</data>
+            <data key="y">259.06287</data>
+        </node>
+        <node id="RTN1">
+            <data key="label">RTN1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-929.37646</data>
+            <data key="y">-319.8608</data>
+        </node>
+        <node id="STX7">
+            <data key="label">STX7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-800.59216</data>
+            <data key="y">-201.93266</data>
+        </node>
+        <node id="FMNL1">
+            <data key="label">FMNL1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-575.05396</data>
+            <data key="y">105.2397</data>
+        </node>
+        <node id="RAP1B">
+            <data key="label">RAP1B</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-389.64224</data>
+            <data key="y">599.6828</data>
+        </node>
+        <node id="CSDE1">
+            <data key="label">CSDE1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-230.76544</data>
+            <data key="y">-1107.4268</data>
+        </node>
+        <node id="STRAP">
+            <data key="label">STRAP</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-328.09705</data>
+            <data key="y">-787.3172</data>
+        </node>
+        <node id="CSE1L">
+            <data key="label">CSE1L</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">26.735405</data>
+            <data key="y">998.14215</data>
+        </node>
+        <node id="IPO7">
+            <data key="label">IPO7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-116.77713</data>
+            <data key="y">985.93036</data>
+        </node>
+        <node id="IPO9">
+            <data key="label">IPO9</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">262.48657</data>
+            <data key="y">1112.2534</data>
+        </node>
+        <node id="XPO1">
+            <data key="label">XPO1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-57.30968</data>
+            <data key="y">850.44196</data>
+        </node>
+        <node id="EIF4G2">
+            <data key="label">EIF4G2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-335.88007</data>
+            <data key="y">1087.5393</data>
+        </node>
+        <node id="IPO5">
+            <data key="label">IPO5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">167.49431</data>
+            <data key="y">980.35175</data>
+        </node>
+        <node id="CTNNB1">
+            <data key="label">CTNNB1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">392.1449</data>
+            <data key="y">-1070.5146</data>
+        </node>
+        <node id="CTNND1">
+            <data key="label">CTNND1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">93.21542</data>
+            <data key="y">-1141.373</data>
+        </node>
+        <node id="CYFIP1">
+            <data key="label">CYFIP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">466.8743</data>
+            <data key="y">47.090668</data>
+        </node>
+        <node id="NCKAP1">
+            <data key="label">NCKAP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">179.89706</data>
+            <data key="y">6.3322196</data>
+        </node>
+        <node id="DLG4">
+            <data key="label">DLG4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-940.0041</data>
+            <data key="y">-636.7362</data>
+        </node>
+        <node id="HSBP1">
+            <data key="label">HSBP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-879.2478</data>
+            <data key="y">-475.8623</data>
+        </node>
+        <node id="TOLLIP">
+            <data key="label">TOLLIP</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-789.42456</data>
+            <data key="y">-608.81903</data>
+        </node>
+        <node id="DMXL1">
+            <data key="label">DMXL1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">534.48785</data>
+            <data key="y">475.91336</data>
+        </node>
+        <node id="STX1A">
+            <data key="label">STX1A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">541.431</data>
+            <data key="y">204.47267</data>
+        </node>
+        <node id="PPP6R2">
+            <data key="label">PPP6R2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">682.2581</data>
+            <data key="y">-184.4043</data>
+        </node>
+        <node id="TRAPPC9">
+            <data key="label">TRAPPC9</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">461.46338</data>
+            <data key="y">333.13177</data>
+        </node>
+        <node id="TRAPPC10">
+            <data key="label">TRAPPC10</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">617.081</data>
+            <data key="y">349.99213</data>
+        </node>
+        <node id="DNAJA1">
+            <data key="label">DNAJA1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">406.86115</data>
+            <data key="y">-516.7382</data>
+        </node>
+        <node id="DNAJA2">
+            <data key="label">DNAJA2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">516.84985</data>
+            <data key="y">-226.95436</data>
+        </node>
+        <node id="EIF2S1">
+            <data key="label">EIF2S1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">986.53265</data>
+            <data key="y">563.3243</data>
+        </node>
+        <node id="EIF2S2">
+            <data key="label">EIF2S2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">907.8415</data>
+            <data key="y">684.46515</data>
+        </node>
+        <node id="EIF3A">
+            <data key="label">EIF3A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">627.35596</data>
+            <data key="y">-732.187</data>
+        </node>
+        <node id="EIF3C">
+            <data key="label">EIF3C</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">347.85315</data>
+            <data key="y">-654.51465</data>
+        </node>
+        <node id="EIF3L">
+            <data key="label">EIF3L</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">136.49994</data>
+            <data key="y">-833.1678</data>
+        </node>
+        <node id="EIF3B">
+            <data key="label">EIF3B</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-134.18901</data>
+            <data key="y">-979.6446</data>
+        </node>
+        <node id="EIF3D">
+            <data key="label">EIF3D</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-7.3438106</data>
+            <data key="y">-872.3409</data>
+        </node>
+        <node id="EIF3F">
+            <data key="label">EIF3F</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-75.71506</data>
+            <data key="y">-740.68097</data>
+        </node>
+        <node id="PSMC2">
+            <data key="label">PSMC2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">73.46919</data>
+            <data key="y">-554.5329</data>
+        </node>
+        <node id="PSMC1">
+            <data key="label">PSMC1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">200.3991</data>
+            <data key="y">-683.3833</data>
+        </node>
+        <node id="PSMC4">
+            <data key="label">PSMC4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">56.915318</data>
+            <data key="y">-695.6442</data>
+        </node>
+        <node id="PSMC5">
+            <data key="label">PSMC5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">230.5679</data>
+            <data key="y">-538.53595</data>
+        </node>
+        <node id="PSMC6">
+            <data key="label">PSMC6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">165.28496</data>
+            <data key="y">-407.3772</data>
+        </node>
+        <node id="PSMD13">
+            <data key="label">PSMD13</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-128.1183</data>
+            <data key="y">-426.75818</data>
+        </node>
+        <node id="PSMD14">
+            <data key="label">PSMD14</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-79.91547</data>
+            <data key="y">-577.4963</data>
+        </node>
+        <node id="PSMD2">
+            <data key="label">PSMD2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">11.765721</data>
+            <data key="y">-431.6944</data>
+        </node>
+        <node id="PSMD6">
+            <data key="label">PSMD6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-123.038414</data>
+            <data key="y">-286.27344</data>
+        </node>
+        <node id="PSMD7">
+            <data key="label">PSMD7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-232.34546</data>
+            <data key="y">-527.2104</data>
+        </node>
+        <node id="PSMD8">
+            <data key="label">PSMD8</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">46.47111</data>
+            <data key="y">-295.06854</data>
+        </node>
+        <node id="PSMD12">
+            <data key="label">PSMD12</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-262.90002</data>
+            <data key="y">-358.0413</data>
+        </node>
+        <node id="PSMD3">
+            <data key="label">PSMD3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-37.72992</data>
+            <data key="y">-171.62332</data>
+        </node>
+        <node id="ELAVL1">
+            <data key="label">ELAVL1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1126.522</data>
+            <data key="y">202.56772</data>
+        </node>
+        <node id="HNRNPL">
+            <data key="label">HNRNPL</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-967.3713</data>
+            <data key="y">-184.18716</data>
+        </node>
+        <node id="FUS">
+            <data key="label">FUS</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-784.58685</data>
+            <data key="y">-345.49924</data>
+        </node>
+        <node id="SFPQ">
+            <data key="label">SFPQ</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-719.2791</data>
+            <data key="y">-471.40863</data>
+        </node>
+        <node id="HNRNPA3">
+            <data key="label">HNRNPA3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-625.33026</data>
+            <data key="y">-596.36774</data>
+        </node>
+        <node id="ETFA">
+            <data key="label">ETFA</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1108.3832</data>
+            <data key="y">-243.85825</data>
+        </node>
+        <node id="ETFB">
+            <data key="label">ETFB</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1000.7651</data>
+            <data key="y">-38.328968</data>
+        </node>
+        <node id="EXOC3">
+            <data key="label">EXOC3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-120.55775</data>
+            <data key="y">-51.675713</data>
+        </node>
+        <node id="EXOC5">
+            <data key="label">EXOC5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-10.473361</data>
+            <data key="y">259.04926</data>
+        </node>
+        <node id="EXOC7">
+            <data key="label">EXOC7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">27.254784</data>
+            <data key="y">-16.267887</data>
+        </node>
+        <node id="EXOC8">
+            <data key="label">EXOC8</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">239.85913</data>
+            <data key="y">170.04892</data>
+        </node>
+        <node id="FGB">
+            <data key="label">FGB</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">787.9451</data>
+            <data key="y">-820.3259</data>
+        </node>
+        <node id="FGG">
+            <data key="label">FGG</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">904.682</data>
+            <data key="y">-702.1184</data>
+        </node>
+        <node id="GDAP1">
+            <data key="label">GDAP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">742.13666</data>
+            <data key="y">-424.2374</data>
+        </node>
+        <node id="SNAP25">
+            <data key="label">SNAP25</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">576.20465</data>
+            <data key="y">-469.21576</data>
+        </node>
+        <node id="GNB1">
+            <data key="label">GNB1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">3.1301777</data>
+            <data key="y">-1023.58185</data>
+        </node>
+        <node id="GNB2">
+            <data key="label">GNB2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-182.23996</data>
+            <data key="y">-841.98224</data>
+        </node>
+        <node id="ITPKA">
+            <data key="label">ITPKA</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">281.8199</data>
+            <data key="y">-961.34045</data>
+        </node>
+        <node id="SCAI">
+            <data key="label">SCAI</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">243.37683</data>
+            <data key="y">-1113.1334</data>
+        </node>
+        <node id="MAP1B">
+            <data key="label">MAP1B</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-653.26465</data>
+            <data key="y">748.8275</data>
+        </node>
+        <node id="MAP1LC3A">
+            <data key="label">MAP1LC3A</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-921.6777</data>
+            <data key="y">683.8847</data>
+        </node>
+        <node id="MRPL12">
+            <data key="label">MRPL12</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-428.7464</data>
+            <data key="y">-885.41296</data>
+        </node>
+        <node id="MRPL15">
+            <data key="label">MRPL15</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-566.4788</data>
+            <data key="y">-829.24194</data>
+        </node>
+        <node id="MRPL37">
+            <data key="label">MRPL37</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-501.4238</data>
+            <data key="y">-1015.127</data>
+        </node>
+        <node id="MRPS31">
+            <data key="label">MRPS31</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-631.3935</data>
+            <data key="y">-954.19086</data>
+        </node>
+        <node id="MRPS9">
+            <data key="label">MRPS9</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-375.3774</data>
+            <data key="y">-1073.8678</data>
+        </node>
+        <node id="NAE1">
+            <data key="label">NAE1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">317.82227</data>
+            <data key="y">969.08276</data>
+        </node>
+        <node id="UBA3">
+            <data key="label">UBA3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">247.63315</data>
+            <data key="y">835.1452</data>
+        </node>
+        <node id="PAFAH1B1">
+            <data key="label">PAFAH1B1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-679.20044</data>
+            <data key="y">-724.3596</data>
+        </node>
+        <node id="YWHAE">
+            <data key="label">YWHAE</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-849.55945</data>
+            <data key="y">-753.9173</data>
+        </node>
+        <node id="PAK3">
+            <data key="label">PAK3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">291.3438</data>
+            <data key="y">-809.1052</data>
+        </node>
+        <node id="PRKAR1B">
+            <data key="label">PRKAR1B</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">142.35352</data>
+            <data key="y">-980.8779</data>
+        </node>
+        <node id="PIK3C3">
+            <data key="label">PIK3C3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1018.3188</data>
+            <data key="y">-511.7413</data>
+        </node>
+        <node id="PIK3R4">
+            <data key="label">PIK3R4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1066.9385</data>
+            <data key="y">-380.07764</data>
+        </node>
+        <node id="PSMA1">
+            <data key="label">PSMA1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">614.1467</data>
+            <data key="y">75.24252</data>
+        </node>
+        <node id="PSMA3">
+            <data key="label">PSMA3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">726.9323</data>
+            <data key="y">-35.910595</data>
+        </node>
+        <node id="PSMA5">
+            <data key="label">PSMA5</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">700.0976</data>
+            <data key="y">214.57347</data>
+        </node>
+        <node id="PSMA6">
+            <data key="label">PSMA6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">844.64667</data>
+            <data key="y">232.80621</data>
+        </node>
+        <node id="PSMA7">
+            <data key="label">PSMA7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">968.6088</data>
+            <data key="y">194.3024</data>
+        </node>
+        <node id="PSMD4">
+            <data key="label">PSMD4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">392.22675</data>
+            <data key="y">186.71071</data>
+        </node>
+        <node id="PSMA4">
+            <data key="label">PSMA4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">778.22406</data>
+            <data key="y">97.69589</data>
+        </node>
+        <node id="PSMB1">
+            <data key="label">PSMB1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">891.13635</data>
+            <data key="y">28.43244</data>
+        </node>
+        <node id="PSMB2">
+            <data key="label">PSMB2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1025.3677</data>
+            <data key="y">63.166847</data>
+        </node>
+        <node id="PSMB3">
+            <data key="label">PSMB3</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">844.2844</data>
+            <data key="y">-122.47995</data>
+        </node>
+        <node id="PSMB4">
+            <data key="label">PSMB4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">989.21</data>
+            <data key="y">-88.210434</data>
+        </node>
+        <node id="RAB3GAP1">
+            <data key="label">RAB3GAP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-187.12057</data>
+            <data key="y">80.3091</data>
+        </node>
+        <node id="RAB3GAP2">
+            <data key="label">RAB3GAP2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">95.60537</data>
+            <data key="y">135.19872</data>
+        </node>
+        <node id="RANBP1">
+            <data key="label">RANBP1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-1133.8108</data>
+            <data key="y">-101.387375</data>
+        </node>
+        <node id="STMN1">
+            <data key="label">STMN1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">-855.1984</data>
+            <data key="y">71.06193</data>
+        </node>
+        <node id="RUVBL1">
+            <data key="label">RUVBL1</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">422.58655</data>
+            <data key="y">1062.7966</data>
+        </node>
+        <node id="RUVBL2">
+            <data key="label">RUVBL2</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">112.445465</data>
+            <data key="y">1134.4292</data>
+        </node>
+        <node id="SNX4">
+            <data key="label">SNX4</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">847.03033</data>
+            <data key="y">-530.7686</data>
+        </node>
+        <node id="SNX7">
+            <data key="label">SNX7</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">1090.7039</data>
+            <data key="y">-318.21466</data>
+        </node>
+        <node id="TUBB">
+            <data key="label">TUBB</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">766.4193</data>
+            <data key="y">-677.1235</data>
+        </node>
+        <node id="TUBB6">
+            <data key="label">TUBB6</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">681.7558</data>
+            <data key="y">-918.32825</data>
+        </node>
+        <node id="VPS11">
+            <data key="label">VPS11</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">594.79816</data>
+            <data key="y">626.5457</data>
+        </node>
+        <node id="VPS16">
+            <data key="label">VPS16</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">695.49713</data>
+            <data key="y">909.51196</data>
+        </node>
+        <node id="VPS18">
+            <data key="label">VPS18</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">552.7814</data>
+            <data key="y">991.7104</data>
+        </node>
+        <node id="VPS50">
+            <data key="label">VPS50</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">298.4939</data>
+            <data key="y">316.42865</data>
+        </node>
+        <node id="VPS51">
+            <data key="label">VPS51</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">268.00967</data>
+            <data key="y">569.8234</data>
+        </node>
+        <node id="VPS53">
+            <data key="label">VPS53</data>
+            <data key="size">10.0</data>
+            <data key="r">52</data>
+            <data key="g">0</data>
+            <data key="b">194</data>
+            <data key="x">365.39886</data>
+            <data key="y">448.66995</data>
+        </node>
+        <edge id="80400" source="ABCE1" target="EEF2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80401" source="EEF2" target="GART">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80402" source="ABR" target="DNAJC6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80403" source="DNAJC6" target="UCHL1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80404" source="ACTN1" target="FLNA">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80405" source="ACTN1" target="TPM1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80406" source="TPM1" target="SORBS1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80407" source="ACTN2" target="FSD1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80408" source="FSD1" target="PFKP">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80409" source="FSD1" target="TRIM2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80410" source="ACTR2" target="ARPC3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80411" source="ACTR2" target="CORO1A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80412" source="ACTR2" target="EHD1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80413" source="ACTR2" target="TWF2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80414" source="ACTR2" target="WDR1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80415" source="ARPC3" target="ARPC5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80416" source="ARPC3" target="CAP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80417" source="ARPC3" target="COTL1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80418" source="CORO1A" target="COTL1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80419" source="TWF2" target="CAPZA2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80420" source="TWF2" target="WDR1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80421" source="WDR1" target="CAPZA2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80422" source="CAP1" target="SNX6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80423" source="CAPZA2" target="MAPK1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80424" source="ADD1" target="HSPA12A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80425" source="HSPA12A" target="AKAP12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80426" source="HSPA12A" target="PALM">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80427" source="AKAP12" target="LRP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80428" source="AKAP12" target="MAP1A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80429" source="AKAP12" target="PALM">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80430" source="PALM" target="DMWD">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80431" source="PALM" target="FKBP1B">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80432" source="ADD2" target="DGKI">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80433" source="DGKI" target="FKBP1B">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80434" source="DGKI" target="MAP2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80435" source="FKBP1B" target="CNRIP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80436" source="FKBP1B" target="ENO2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80437" source="FKBP1B" target="SCRN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80438" source="LRP1" target="CORO2B">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80439" source="AKR1A1" target="MPI">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80440" source="ALDH18A1" target="SHMT2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80441" source="SHMT2" target="HSPD1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80442" source="HSPD1" target="MDH2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80443" source="AP2A1" target="AP2B1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80444" source="AP2B1" target="AP2A2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80445" source="ARHGDIA" target="PGAM1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80446" source="PGAM1" target="PGK1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80447" source="SNX6" target="SNX1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80448" source="SNX6" target="SNX2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80449" source="SNX6" target="SNX5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80450" source="ATP1A1" target="ATP1B1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80451" source="ATP2A2" target="ATP2C1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80452" source="ATP2A2" target="CLPTM1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80453" source="ATP2A2" target="SLC25A3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80454" source="CLPTM1" target="BCAP31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80455" source="CLPTM1" target="CANX">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80456" source="CLPTM1" target="RPN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80457" source="CLPTM1" target="SACM1L">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80458" source="SLC25A3" target="SACM1L">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80459" source="BCAP31" target="RPN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80460" source="BCAP31" target="SACM1L">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80461" source="CANX" target="RPN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80462" source="RPN1" target="LMAN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80463" source="SACM1L" target="WFS1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80464" source="ATP6V1A" target="ATP6V1B2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80465" source="ATP6V1A" target="ATP6V1D">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80466" source="ATP6V1A" target="ATP6V1E1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80467" source="ATP6V1A" target="ATP6V1H">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80468" source="ATP6V1B2" target="ATP6V1D">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80469" source="ATP6V1D" target="ATP6V1E1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80470" source="CACYBP" target="GMPS">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80471" source="CACYBP" target="PFDN2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80472" source="PFDN2" target="PFDN6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80473" source="PFDN6" target="PFDN5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80474" source="CALR" target="ERP44">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80475" source="CALR" target="HSPA5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80476" source="CALR" target="P4HB">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80477" source="CALR" target="PDIA4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80478" source="CALR" target="PRKCSH">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80479" source="ERP44" target="HSPA5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80480" source="HSPA5" target="PDIA4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80481" source="SNX1" target="SNX5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80482" source="CCT2" target="CCT3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80483" source="CCT2" target="CCT4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80484" source="CCT2" target="CCT5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80485" source="CCT2" target="CCT6A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80486" source="CCT2" target="CCT7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80487" source="CCT2" target="CCT8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80488" source="CCT2" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80489" source="CCT3" target="CCT4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80490" source="CCT3" target="CCT5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80491" source="CCT3" target="CCT6A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80492" source="CCT3" target="CCT7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80493" source="CCT3" target="CCT8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80494" source="CCT3" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80495" source="CCT4" target="CCT5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80496" source="CCT4" target="CCT6A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80497" source="CCT4" target="CCT7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80498" source="CCT4" target="CCT8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80499" source="CCT4" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80500" source="CCT5" target="CCT6A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80501" source="CCT5" target="CCT7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80502" source="CCT5" target="CCT8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80503" source="CCT5" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80504" source="CCT6A" target="CCT7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80505" source="CCT6A" target="CCT8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80506" source="CCT6A" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80507" source="CCT7" target="CCT8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80508" source="CCT7" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80509" source="CCT8" target="TCP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80510" source="CLIC4" target="CNN3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80511" source="CNN3" target="PDLIM5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80512" source="CNN3" target="ZYX">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80513" source="PDLIM5" target="CSRP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80514" source="PDLIM5" target="ZYX">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80515" source="CNTNAP1" target="NCAM1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80516" source="COPS2" target="COPS4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80517" source="COPS2" target="COPS5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80518" source="COPS2" target="COPS6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80519" source="COPS4" target="COPS5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80520" source="COPS4" target="COPS6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80521" source="COPS5" target="COPS6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80522" source="CPT1C" target="EPB41L3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80523" source="CPT1C" target="GNAI2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80524" source="CPT1C" target="RAP1A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80525" source="CPT1C" target="RTN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80526" source="CPT1C" target="STX7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80527" source="GNAI2" target="FMNL1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80528" source="RAP1A" target="RAP1B">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80529" source="CSDE1" target="STRAP">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80530" source="CSE1L" target="IPO7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80531" source="CSE1L" target="IPO9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80532" source="CSE1L" target="XPO1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80533" source="IPO7" target="EIF4G2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80534" source="IPO7" target="XPO1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80535" source="XPO1" target="IPO5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80536" source="CTNNB1" target="CTNND1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80537" source="CYFIP1" target="NCKAP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80538" source="DLG4" target="HSBP1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80539" source="DLG4" target="TOLLIP">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80540" source="DMXL1" target="STX1A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80541" source="STX1A" target="PPP6R2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80542" source="STX1A" target="TRAPPC9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80543" source="TRAPPC9" target="TRAPPC10">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80544" source="DNAJA1" target="DNAJA2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80545" source="EIF2S1" target="EIF2S2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80546" source="EIF3A" target="EIF3C">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80547" source="EIF3C" target="EIF3L">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80548" source="EIF3L" target="EIF3B">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80549" source="EIF3L" target="EIF3D">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80550" source="EIF3L" target="EIF3F">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80551" source="EIF3B" target="EIF3D">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80552" source="EIF3B" target="EIF3F">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80553" source="EIF3D" target="EIF3F">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80554" source="EIF3F" target="PSMC2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80555" source="PSMC2" target="PSMC1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80556" source="PSMC2" target="PSMC4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80557" source="PSMC2" target="PSMC5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80558" source="PSMC2" target="PSMC6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80559" source="PSMC2" target="PSMD13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80560" source="PSMC2" target="PSMD14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80561" source="PSMC2" target="PSMD2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80562" source="PSMC2" target="PSMD6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80563" source="PSMC2" target="PSMD7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80564" source="PSMC2" target="PSMD8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80565" source="PSMC1" target="PSMC4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80566" source="PSMC1" target="PSMC5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80567" source="PSMC1" target="PSMD2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80568" source="PSMC4" target="PSMC5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80569" source="PSMC4" target="PSMC6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80570" source="PSMC4" target="PSMD14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80571" source="PSMC4" target="PSMD2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80572" source="PSMC5" target="PSMC6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80573" source="PSMC5" target="PSMD14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80574" source="PSMC5" target="PSMD2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80575" source="PSMC5" target="PSMD8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80576" source="PSMD13" target="PSMD2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80577" source="PSMD13" target="PSMD12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80578" source="PSMD13" target="PSMD14">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80579" source="PSMD13" target="PSMD3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80580" source="PSMD13" target="PSMD6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80581" source="PSMD13" target="PSMD7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80582" source="PSMD13" target="PSMD8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80583" source="PSMD14" target="PSMD2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80584" source="PSMD14" target="PSMD12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80585" source="PSMD14" target="PSMD6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80586" source="PSMD14" target="PSMD7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80587" source="PSMD14" target="PSMD8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80588" source="PSMD2" target="PSMD3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80589" source="PSMD2" target="PSMD6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80590" source="PSMD2" target="PSMD7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80591" source="PSMD2" target="PSMD8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80592" source="PSMD6" target="PSMD12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80593" source="PSMD6" target="PSMD3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80594" source="PSMD6" target="PSMD7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80595" source="PSMD6" target="PSMD8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80596" source="PSMD7" target="PSMD12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80597" source="PSMD8" target="PSMD12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80598" source="PSMD8" target="PSMD3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80599" source="ELAVL1" target="HNRNPL">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80600" source="HNRNPL" target="FUS">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80601" source="HNRNPL" target="SFPQ">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80602" source="FUS" target="SFPQ">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80603" source="SFPQ" target="HNRNPA3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80604" source="ETFA" target="ETFB">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80605" source="EXOC3" target="EXOC5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80606" source="EXOC3" target="EXOC7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80607" source="EXOC5" target="EXOC7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80608" source="EXOC5" target="EXOC8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80609" source="FGB" target="FGG">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80610" source="GDAP1" target="SNAP25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80611" source="GNB1" target="GNB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80612" source="ITPKA" target="SCAI">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80613" source="MAP1B" target="MAP1LC3A">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80614" source="MRPL12" target="MRPL15">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80615" source="MRPL15" target="MRPL37">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80616" source="MRPL15" target="MRPS31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80617" source="MRPL15" target="MRPS9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80618" source="MRPL37" target="MRPS31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80619" source="MRPL37" target="MRPS9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80620" source="MRPS31" target="MRPS9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80621" source="NAE1" target="UBA3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80622" source="PAFAH1B1" target="YWHAE">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80623" source="PAK3" target="PRKAR1B">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80624" source="PIK3C3" target="PIK3R4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80625" source="PSMA1" target="PSMA3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80626" source="PSMA1" target="PSMA5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80627" source="PSMA1" target="PSMA6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80628" source="PSMA1" target="PSMA7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80629" source="PSMA1" target="PSMD4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80630" source="PSMA3" target="PSMA4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80631" source="PSMA3" target="PSMA5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80632" source="PSMA3" target="PSMA6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80633" source="PSMA3" target="PSMA7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80634" source="PSMA3" target="PSMB1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80635" source="PSMA3" target="PSMB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80636" source="PSMA3" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80637" source="PSMA3" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80638" source="PSMA5" target="PSMA4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80639" source="PSMA5" target="PSMA6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80640" source="PSMA5" target="PSMA7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80641" source="PSMA5" target="PSMB1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80642" source="PSMA5" target="PSMB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80643" source="PSMA5" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80644" source="PSMA5" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80645" source="PSMA6" target="PSMA4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80646" source="PSMA6" target="PSMA7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80647" source="PSMA6" target="PSMB1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80648" source="PSMA6" target="PSMB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80649" source="PSMA6" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80650" source="PSMA6" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80651" source="PSMA7" target="PSMA4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80652" source="PSMA7" target="PSMB1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80653" source="PSMA7" target="PSMB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80654" source="PSMA7" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80655" source="PSMA7" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80656" source="PSMA4" target="PSMB1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80657" source="PSMA4" target="PSMB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80658" source="PSMA4" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80659" source="PSMA4" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80660" source="PSMB1" target="PSMB2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80661" source="PSMB1" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80662" source="PSMB1" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80663" source="PSMB2" target="PSMB3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80664" source="PSMB2" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80665" source="PSMB3" target="PSMB4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80666" source="RAB3GAP1" target="RAB3GAP2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80667" source="RANBP1" target="STMN1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80668" source="RUVBL1" target="RUVBL2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80669" source="SNX4" target="SNX7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80670" source="TUBB" target="TUBB6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80671" source="VPS11" target="VPS16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80672" source="VPS11" target="VPS18">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80673" source="VPS50" target="VPS51">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80674" source="VPS50" target="VPS53">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="80675" source="VPS51" target="VPS53">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>

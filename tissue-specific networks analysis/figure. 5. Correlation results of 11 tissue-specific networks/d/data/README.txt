@@ -1,0 +1,1 @@
+CSR scores for venn network

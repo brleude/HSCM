@@ -1,0 +1,2 @@
+get_results.py：the script to get results.
+results_100.pkl——result_500.pkl：Plotting data: AUC, average rank of key nodes, and average precision for each centrality index when selecting 100 to 500 nodes as key nodes.
