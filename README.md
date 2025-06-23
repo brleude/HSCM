@@ -6,12 +6,12 @@
 This project runs in the environment of `python==3.10.12`.
 ## Installation
 You can clone this project to your local machine in the following way:
-`git clone -b master https://github.com/brleude/HOCR.git`
+`git clone -b master https://github.com/brleude/HSCM.git`
 ## Usage
 We use an artificially constructed scale-free network for demonstration.The relevant data can be found in `HOCR/data/`.<br>**Run the following code in folder `HOCR/`  under the conda environment:**
 
 ```
-conda create -n HOCR_test python=3.10.12
+conda create -n HSCM_test python=3.10.12
 conda activate HOCR_test
 pip install -r requirements.txt
 python main.py \
