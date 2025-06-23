@@ -8,11 +8,11 @@ This project runs in the environment of `python==3.10.12`.
 You can clone this project to your local machine in the following way:
 `git clone -b master https://github.com/brleude/HSCM.git`
 ## Usage
-We use an artificially constructed scale-free network for demonstration.The relevant data can be found in `HSCM/data/`.<br>**Run the following code in folder `HOCR/`  under the conda environment:**
+We use an artificially constructed scale-free network for demonstration.The relevant data can be found in `HSCM/data/`.<br>**Run the following code in folder `HSCM/`  under the conda environment:**
 
 ```
 conda create -n HSCM_test python=3.10.12
-conda activate HOCR_test
+conda activate HSCM_test
 pip install -r requirements.txt
 python main.py \
 -G data/artificial_network_edgelist.edgelist \
