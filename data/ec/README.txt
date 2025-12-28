@@ -18,3 +18,14 @@ malE	malG
 xerC	xerD
 ......
 Each row of data indicates that the two proteins in the row have an interaction.
+
+
+Key and Non-key Proteins in PPI Network.csv: key and non-key proteins in the Escherichia coli PPI network.
+The data format is as follows：
+Key_Proteins,Non_Key_Proteins
+groEL,carB
+xerC,carA
+ssb,PRNP
+hns,malE
+fliN,malG
+......
