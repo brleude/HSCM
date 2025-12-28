@@ -17,3 +17,14 @@ Q0085 YBL099W
 Q0085 YDR298C
 ......
 Each row of data indicates that the two proteins in the row have an interaction.
+
+
+Key and Non-key Proteins in PPI Network.csv: key and non-key proteins in the Saccharomyces cerevisiae PPI network.
+The data format is as follows：
+Key_Proteins,Non_Key_Proteins
+YAL035W,Q0050
+YER165W,YER142C
+YGR090W,YBL002W
+YOR207C,YBL099W
+YPR190C,YBR010W
+......
